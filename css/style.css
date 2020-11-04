@@ -133,7 +133,7 @@ body {
 */
 
 .flexbox3 {
-	display: flexbox;
+	display: flex;
 	flex-direction: row;
 	background-color: bisque;
 	padding-right: 15px;
