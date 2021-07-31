@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://pilzhere.github.io/posts/my-first-post/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pilzhere.github.io/projects/</loc>
+  </url><url>
+    <loc>https://pilzhere.github.io/posts/projects/santas-crashing-christmas/</loc>
+    <lastmod>2021-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pilzhere.github.io/posts/projects/survivor/</loc>
+    <lastmod>2021-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pilzhere.github.io/posts/projects/ultra-nightmare/</loc>
+    <lastmod>2021-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pilzhere.github.io/</loc>
+    <lastmod>2021-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pilzhere.github.io/posts/</loc>
+    <lastmod>2021-07-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://pilzhere.github.io/tags/first-post/</loc>
     <lastmod>2021-07-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -17,16 +37,7 @@
     <loc>https://pilzhere.github.io/tags/markdown/</loc>
     <lastmod>2021-07-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pilzhere.github.io/posts/my-first-post/</loc>
-    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://pilzhere.github.io/tags/papermod/</loc>
-    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pilzhere.github.io/</loc>
-    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pilzhere.github.io/posts/</loc>
     <lastmod>2021-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pilzhere.github.io/tags/</loc>

@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pilzhere.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pilzhere.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New website</title>
       <link>https://pilzhere.github.io/posts/my-first-post/</link>
@@ -18,6 +18,42 @@
       
       <guid>https://pilzhere.github.io/posts/my-first-post/</guid>
       <description>*Level up!*</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://pilzhere.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pilzhere.github.io/projects/</guid>
+      <description>Games, demos and other applications.</description>
+    </item>
+    
+    <item>
+      <title>Santa&#39;s Crashing Christmas</title>
+      <link>https://pilzhere.github.io/posts/projects/santas-crashing-christmas/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pilzhere.github.io/posts/projects/santas-crashing-christmas/</guid>
+      <description>Spinning world survial</description>
+    </item>
+    
+    <item>
+      <title>Survivor</title>
+      <link>https://pilzhere.github.io/posts/projects/survivor/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pilzhere.github.io/posts/projects/survivor/</guid>
+      <description>Top-down adventure</description>
+    </item>
+    
+    <item>
+      <title>Ultra Nightmare</title>
+      <link>https://pilzhere.github.io/posts/projects/ultra-nightmare/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pilzhere.github.io/posts/projects/ultra-nightmare/</guid>
+      <description>First person shooter</description>
     </item>
     
   </channel>
