@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pilzhere.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Aug 2021 01:52:02 +0200</lastBuildDate><atom:link href="https://pilzhere.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New website</title>
       <link>https://pilzhere.github.io/posts/my-first-post/</link>
@@ -26,7 +26,43 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pilzhere.github.io/projects/</guid>
-      <description>Games, demos and other applications.</description>
+      <description>Unfinished games, demos and other applications.</description>
+    </item>
+    
+    <item>
+      <title>Robo Wars</title>
+      <link>https://pilzhere.github.io/posts/projects/robowars/</link>
+      <pubDate>Mon, 02 Aug 2021 01:52:02 +0200</pubDate>
+      
+      <guid>https://pilzhere.github.io/posts/projects/robowars/</guid>
+      <description>Kill &amp;#39;em all!</description>
+    </item>
+    
+    <item>
+      <title>Space Barrier</title>
+      <link>https://pilzhere.github.io/posts/projects/spacebarrier/</link>
+      <pubDate>Mon, 02 Aug 2021 01:37:20 +0200</pubDate>
+      
+      <guid>https://pilzhere.github.io/posts/projects/spacebarrier/</guid>
+      <description>Fly &amp;#39;n shoot</description>
+    </item>
+    
+    <item>
+      <title>SteamBoy DIG</title>
+      <link>https://pilzhere.github.io/posts/projects/digger/</link>
+      <pubDate>Mon, 02 Aug 2021 00:01:44 +0200</pubDate>
+      
+      <guid>https://pilzhere.github.io/posts/projects/digger/</guid>
+      <description>A game about digging</description>
+    </item>
+    
+    <item>
+      <title>Not F Zero</title>
+      <link>https://pilzhere.github.io/posts/projects/not-f-zero/</link>
+      <pubDate>Mon, 02 Aug 2021 00:01:36 +0200</pubDate>
+      
+      <guid>https://pilzhere.github.io/posts/projects/not-f-zero/</guid>
+      <description>Mode7 &amp;lt;3</description>
     </item>
     
     <item>
@@ -35,7 +71,7 @@
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://pilzhere.github.io/posts/projects/santas-crashing-christmas/</guid>
-      <description>Spinning world survial</description>
+      <description>Spinning world survival</description>
     </item>
     
     <item>
@@ -54,6 +90,51 @@
       
       <guid>https://pilzhere.github.io/posts/projects/ultra-nightmare/</guid>
       <description>First person shooter</description>
+    </item>
+    
+    <item>
+      <title>Play Robo Wars</title>
+      <link>https://pilzhere.github.io/games/robowars/play-robowars/</link>
+      <pubDate>Mon, 02 Aug 2021 01:51:52 +0200</pubDate>
+      
+      <guid>https://pilzhere.github.io/games/robowars/play-robowars/</guid>
+      <description>  HTML Meta Tag  </description>
+    </item>
+    
+    <item>
+      <title>Play Space Barrier</title>
+      <link>https://pilzhere.github.io/games/spacebarrier/play-spacebarrier/</link>
+      <pubDate>Mon, 02 Aug 2021 01:37:07 +0200</pubDate>
+      
+      <guid>https://pilzhere.github.io/games/spacebarrier/play-spacebarrier/</guid>
+      <description>  HTML Meta Tag  </description>
+    </item>
+    
+    <item>
+      <title>Play SteamBoy DIG</title>
+      <link>https://pilzhere.github.io/games/digger/play-digger/</link>
+      <pubDate>Mon, 02 Aug 2021 00:15:17 +0200</pubDate>
+      
+      <guid>https://pilzhere.github.io/games/digger/play-digger/</guid>
+      <description>  HTML Meta Tag  </description>
+    </item>
+    
+    <item>
+      <title>Play Survivor</title>
+      <link>https://pilzhere.github.io/games/survivor/play-survivor/</link>
+      <pubDate>Sun, 01 Aug 2021 23:49:45 +0200</pubDate>
+      
+      <guid>https://pilzhere.github.io/games/survivor/play-survivor/</guid>
+      <description>  HTML Meta Tag  </description>
+    </item>
+    
+    <item>
+      <title>Play Santa&#39;s Crashing Christmas</title>
+      <link>https://pilzhere.github.io/games/santas-crashing-christmas/play-santas-crashing-christmas/</link>
+      <pubDate>Sun, 01 Aug 2021 17:28:50 +0200</pubDate>
+      
+      <guid>https://pilzhere.github.io/games/santas-crashing-christmas/play-santas-crashing-christmas/</guid>
+      <description>  HTML Meta Tag  </description>
     </item>
     
   </channel>
