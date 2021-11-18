@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Aug 2021 01:52:02 +0200</lastBuildDate><atom:link href="https://pilzhere.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pilzhere.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New website</title>
       <link>https://pilzhere.github.io/posts/my-first-post/</link>
@@ -18,6 +18,15 @@
       
       <guid>https://pilzhere.github.io/posts/my-first-post/</guid>
       <description>*Level up!*</description>
+    </item>
+    
+    <item>
+      <title>Frag Ztar</title>
+      <link>https://pilzhere.github.io/mailto:pilzhere.net@gmail.com?subject=Suggesting changes for </link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pilzhere.github.io/mailto:pilzhere.net@gmail.com?subject=Suggesting changes for </guid>
+      <description>Star Fox (SNES) inspired rail shooter.</description>
     </item>
     
     <item>
