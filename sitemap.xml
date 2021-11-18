@@ -2,34 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pilzhere.github.io/posts/my-first-post/</loc>
-    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pilzhere.github.io/projects/</loc>
-  </url><url>
     <loc>https://pilzhere.github.io/posts/projects/frag-ztar/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pilzhere.github.io/posts/projects/robowars/</loc>
-    <lastmod>2021-08-02T01:52:02+02:00</lastmod>
+    <loc>https://pilzhere.github.io/projects/</loc>
   </url><url>
-    <loc>https://pilzhere.github.io/posts/projects/spacebarrier/</loc>
-    <lastmod>2021-08-02T01:37:20+02:00</lastmod>
-  </url><url>
-    <loc>https://pilzhere.github.io/posts/projects/digger/</loc>
-    <lastmod>2021-08-02T00:01:44+02:00</lastmod>
-  </url><url>
-    <loc>https://pilzhere.github.io/posts/projects/not-f-zero/</loc>
-    <lastmod>2021-08-02T00:01:36+02:00</lastmod>
-  </url><url>
-    <loc>https://pilzhere.github.io/posts/projects/santas-crashing-christmas/</loc>
-    <lastmod>2021-07-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pilzhere.github.io/posts/projects/survivor/</loc>
-    <lastmod>2021-07-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://pilzhere.github.io/posts/projects/ultra-nightmare/</loc>
-    <lastmod>2021-07-31T00:00:00+00:00</lastmod>
+    <loc>https://pilzhere.github.io/posts/my-first-post/</loc>
+    <lastmod>2021-07-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pilzhere.github.io/games/robowars/play-robowars/</loc>
     <lastmod>2021-08-02T01:51:52+02:00</lastmod>
@@ -45,6 +24,27 @@
   </url><url>
     <loc>https://pilzhere.github.io/games/santas-crashing-christmas/play-santas-crashing-christmas/</loc>
     <lastmod>2021-08-01T17:28:50+02:00</lastmod>
+  </url><url>
+    <loc>https://pilzhere.github.io/posts/projects/ultra-nightmare/</loc>
+    <lastmod>2021-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pilzhere.github.io/posts/projects/survivor/</loc>
+    <lastmod>2021-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pilzhere.github.io/posts/projects/not-f-zero/</loc>
+    <lastmod>2021-08-02T00:01:36+02:00</lastmod>
+  </url><url>
+    <loc>https://pilzhere.github.io/posts/projects/santas-crashing-christmas/</loc>
+    <lastmod>2021-07-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pilzhere.github.io/posts/projects/digger/</loc>
+    <lastmod>2021-08-02T00:01:44+02:00</lastmod>
+  </url><url>
+    <loc>https://pilzhere.github.io/posts/projects/spacebarrier/</loc>
+    <lastmod>2021-08-02T01:37:20+02:00</lastmod>
+  </url><url>
+    <loc>https://pilzhere.github.io/posts/projects/robowars/</loc>
+    <lastmod>2021-08-02T01:52:02+02:00</lastmod>
   </url><url>
     <loc>https://pilzhere.github.io/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
