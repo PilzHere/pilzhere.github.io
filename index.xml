@@ -10,14 +10,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pilzhere.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jun 2022 13:48:34 +0200</lastBuildDate><atom:link href="https://pilzhere.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Frag Ztar</title>
-      <link>https://pilzhere.github.io/posts/projects/frag-ztar/</link>
-      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <title>My Life 2.0</title>
+      <link>https://pilzhere.github.io/posts/news/my-life-2-0/</link>
+      <pubDate>Mon, 06 Jun 2022 13:48:34 +0200</pubDate>
       
-      <guid>https://pilzhere.github.io/posts/projects/frag-ztar/</guid>
-      <description>Star Fox (SNES) inspired rail shooter.</description>
+      <guid>https://pilzhere.github.io/posts/news/my-life-2-0/</guid>
+      <description>5th place in game jam but won most cash. New GPU. Graduated, and got a job!</description>
     </item>
     
     <item>
@@ -30,12 +30,12 @@
     </item>
     
     <item>
-      <title>New website</title>
-      <link>https://pilzhere.github.io/posts/my-first-post/</link>
-      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <title>Frag Ztar</title>
+      <link>https://pilzhere.github.io/posts/projects/frag-ztar/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://pilzhere.github.io/posts/my-first-post/</guid>
-      <description>*Level up!*</description>
+      <guid>https://pilzhere.github.io/posts/projects/frag-ztar/</guid>
+      <description>Star Fox (SNES) inspired rail shooter.</description>
     </item>
     
     <item>
@@ -81,6 +81,15 @@
       
       <guid>https://pilzhere.github.io/games/santas-crashing-christmas/play-santas-crashing-christmas/</guid>
       <description>  HTML Meta Tag  </description>
+    </item>
+    
+    <item>
+      <title>New website</title>
+      <link>https://pilzhere.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://pilzhere.github.io/posts/my-first-post/</guid>
+      <description>*Level up!*</description>
     </item>
     
     <item>
