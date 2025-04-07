@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on PilzHere</title>
+    <link>https://pilzhere.net/games/</link>
+    <description>Recent content in Games on PilzHere</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://pilzhere.net/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://pilzhere.net/games/digger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pilzhere.net/games/digger/</guid>
+      <description>&lt;!doctype html&gt; SteamBoy DIG </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://pilzhere.net/games/robowars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pilzhere.net/games/robowars/</guid>
+      <description>&lt;!doctype html&gt; Thor &amp;#8635; </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://pilzhere.net/games/santas-crashing-christmas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pilzhere.net/games/santas-crashing-christmas/</guid>
+      <description>&lt;!doctype html&gt; christmas-game &amp;#8635; DOWNLOAD GAME HERE </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://pilzhere.net/games/spacebarrier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pilzhere.net/games/spacebarrier/</guid>
+      <description>&lt;!doctype html&gt; space-barrier &amp;#8635; </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://pilzhere.net/games/survivor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pilzhere.net/games/survivor/</guid>
+      <description>&lt;!doctype html&gt; jam-game &amp;#8635; </description>
+    </item>
+  </channel>
+</rss>
