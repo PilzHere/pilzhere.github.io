@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on PilzHere</title>
     <link>https://pilzhere.net/posts/</link>
     <description>Recent content in Posts on PilzHere</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>PilzHere</title>
+      <url>https://pilzhere.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pilzhere.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.126.2</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Jun 2022 13:48:34 +0200</lastBuildDate>
     <atom:link href="https://pilzhere.net/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,70 +18,70 @@
       <link>https://pilzhere.net/posts/news/my-life-2-0/</link>
       <pubDate>Mon, 06 Jun 2022 13:48:34 +0200</pubDate>
       <guid>https://pilzhere.net/posts/news/my-life-2-0/</guid>
-      <description>A few happy updates&amp;hellip; How did the FZ.se game jam go? Frag Ztar came in 5th place (broken voting-system?) in the players voting list.&#xA;Inet, the sponsor of the game jam voted it as their #1 of the games.&#xA;In conclusion: My game was voted to the 5th spot, but I won the most cash reward. Sometimes luck come in different ways!&#xA;I used the cash to buy myself an Nvidia RTX 3070 graphics card.</description>
+      <description>5th place in game jam but won most cash. New GPU. Graduated, and got a job!</description>
     </item>
     <item>
       <title>Frag Ztar</title>
       <link>https://pilzhere.net/posts/projects/frag-ztar/</link>
       <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://pilzhere.net/posts/projects/frag-ztar/</guid>
-      <description>I have enjoyed another game jam! This time it was the swedish videogame news site Frag Zone that set up FZ Game Jam 2021. The time is right because it&amp;rsquo;s cold and dark outside these months. So a lot of my spare time is at the computer.&#xA;The jam time was set to a month, ending at 16th of November. I joined the jam 1 week late when randomly visiting the site.</description>
+      <description>Star Fox (SNES) inspired rail shooter.</description>
     </item>
     <item>
       <title>New website</title>
       <link>https://pilzhere.net/posts/my-first-post/</link>
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://pilzhere.net/posts/my-first-post/</guid>
-      <description>This is my first post on my new site!&#xA;What am I going to do with this site?&#xA;Well, I&amp;rsquo;m going to post about things and ideas that are swirling around or is stuck in my brain that needs to be ventilated digitally.&#xA;I might post an image: Ghosts &amp;rsquo;n Goblins. Do you hate or love this game?&#xA;Or maybe it&amp;rsquo;s complicated&amp;hellip;&#xA;I might post some code:&#xA;Console.WriteLine(&amp;#34;Look &amp;#39;ma! A string!</description>
+      <description>*Level up!*</description>
     </item>
     <item>
       <title>Ultra Nightmare</title>
       <link>https://pilzhere.net/posts/projects/ultra-nightmare/</link>
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://pilzhere.net/posts/projects/ultra-nightmare/</guid>
-      <description>I developed this game for the LibGDX Game Jam 15, christmas 2020. It is coded in Java, using the game library LibGDX.&#xA;Clearly inspired by Wolfenstein 3D, this game is a First Person Shooter in which the player can control the view horizontally but not vertically, shoot enemies, pick up items from the ground and open sliding doors.&#xA;It was made in a week of time.&#xA;If it was not for the deadline, I would have focused on making proper code for the game (some parts are horrible, just to get things working quickly) and add more enemies, items and maps.</description>
+      <description>First person shooter</description>
     </item>
     <item>
       <title>Survivor</title>
       <link>https://pilzhere.net/posts/projects/survivor/</link>
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://pilzhere.net/posts/projects/survivor/</guid>
-      <description>This game was developed for the LibGDX Game Jam, March 2020. It is coded in Java, using the game library LibGDX.&#xA;Inspired by The Legend of Zelda Link&amp;rsquo;s Awakening, this game is a Top-down adventure in which the player has to find weapons, solve puzzles, and collect all items to get the correct ending of the game.&#xA;There is a thermonuclear attack coming, so you have to make sure you grab every item and get into the shelter to survive.</description>
+      <description>Top-down adventure</description>
     </item>
     <item>
       <title>Not F Zero</title>
       <link>https://pilzhere.net/posts/projects/not-f-zero/</link>
       <pubDate>Mon, 02 Aug 2021 00:01:36 +0200</pubDate>
       <guid>https://pilzhere.net/posts/projects/not-f-zero/</guid>
-      <description>This game is coded in Java, using the game library LibGDX.&#xA;After playing F-Zero on my old Super Nintendo Entertainment System I wondered how much of the game I could reproduce with today&amp;rsquo;s technology. I&amp;rsquo;ve always enjoyed watching the Mode 7 graphics. I just wanted to make a copy of the game by myself using Java.&#xA;Another fan of the game from the LibGDX community MGSX reached out to me and contributed with loading time optimizations by using the GPU to generate/paint the track instead of the CPU which improved loading times by thousands of percents.</description>
+      <description>❤️ SNES Mode 7</description>
     </item>
     <item>
       <title>Santa&#39;s Crashing Christmas</title>
       <link>https://pilzhere.net/posts/projects/santas-crashing-christmas/</link>
       <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://pilzhere.net/posts/projects/santas-crashing-christmas/</guid>
-      <description>Developed for the LibGDX Game Jam, December 2019. It is coded in Java, using the game library LibGDX.&#xA;Inspired by the spinning world in Super Mario World 2 Yoshi&amp;rsquo;s Island, the player controls Santa Claus who has to chop wood from the trees to collect 100 logs. Once 100 logs are collected, Santa can repair the sleigh and escape the angry yetis on the island.&#xA;It was made in a week of time.</description>
+      <description>Spinning world survival</description>
     </item>
     <item>
       <title>SteamBoy DIG</title>
       <link>https://pilzhere.net/posts/projects/digger/</link>
       <pubDate>Mon, 02 Aug 2021 00:01:44 +0200</pubDate>
       <guid>https://pilzhere.net/posts/projects/digger/</guid>
-      <description>This game is coded in Java, using the game library LibGDX.&#xA;After finishing playing the game Steamworld Dig I wanted to create a small demake of it.&#xA;As with most of my projects, I lost interest after a week of coding&amp;hellip;&#xA;Play now </description>
+      <description>A game about digging</description>
     </item>
     <item>
       <title>Space Barrier</title>
       <link>https://pilzhere.net/posts/projects/spacebarrier/</link>
       <pubDate>Mon, 02 Aug 2021 01:37:20 +0200</pubDate>
       <guid>https://pilzhere.net/posts/projects/spacebarrier/</guid>
-      <description>This game is coded in Java, using the game library LibGDX.&#xA;It was my contribution for my first LibGDX Game Jam. Inspired by the Sega classic Space Harrier.&#xA;When all energy from the gun is depleted, run on the ground to recharge the gun.&#xA;Play now Development GIF&amp;rsquo;s </description>
+      <description>Fly &amp;#39;n shoot</description>
     </item>
     <item>
       <title>Robo Wars</title>
       <link>https://pilzhere.net/posts/projects/robowars/</link>
       <pubDate>Mon, 02 Aug 2021 01:52:02 +0200</pubDate>
       <guid>https://pilzhere.net/posts/projects/robowars/</guid>
-      <description>This game is coded in Java, using the game library LibGDX.&#xA;It was my contribution for my second LibGDX Game Jam. Inspired by the classic Smash TV game.&#xA;Control your robot to shoot and destroy the evil robot vacuums!&#xA;Play now Development GIF&amp;rsquo;s </description>
+      <description>Kill &amp;#39;em all!</description>
     </item>
   </channel>
 </rss>

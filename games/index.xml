@@ -1,46 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Games on PilzHere</title>
     <link>https://pilzhere.net/games/</link>
     <description>Recent content in Games on PilzHere</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>PilzHere</title>
+      <url>https://pilzhere.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pilzhere.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.126.2</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 02 Aug 2021 01:51:52 +0200</lastBuildDate>
     <atom:link href="https://pilzhere.net/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://pilzhere.net/games/digger/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pilzhere.net/games/digger/</guid>
-      <description>&lt;!doctype html&gt; SteamBoy DIG </description>
+      <title>Play Robo Wars</title>
+      <link>https://pilzhere.net/games/robowars/play-robowars/</link>
+      <pubDate>Mon, 02 Aug 2021 01:51:52 +0200</pubDate>
+      <guid>https://pilzhere.net/games/robowars/play-robowars/</guid>
+      <description> </description>
     </item>
     <item>
-      <title></title>
-      <link>https://pilzhere.net/games/robowars/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pilzhere.net/games/robowars/</guid>
-      <description>&lt;!doctype html&gt; Thor &amp;#8635; </description>
+      <title>Play Space Barrier</title>
+      <link>https://pilzhere.net/games/spacebarrier/play-spacebarrier/</link>
+      <pubDate>Mon, 02 Aug 2021 01:37:07 +0200</pubDate>
+      <guid>https://pilzhere.net/games/spacebarrier/play-spacebarrier/</guid>
+      <description> </description>
     </item>
     <item>
-      <title></title>
-      <link>https://pilzhere.net/games/santas-crashing-christmas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pilzhere.net/games/santas-crashing-christmas/</guid>
-      <description>&lt;!doctype html&gt; christmas-game &amp;#8635; DOWNLOAD GAME HERE </description>
+      <title>Play SteamBoy DIG</title>
+      <link>https://pilzhere.net/games/digger/play-digger/</link>
+      <pubDate>Mon, 02 Aug 2021 00:15:17 +0200</pubDate>
+      <guid>https://pilzhere.net/games/digger/play-digger/</guid>
+      <description> </description>
     </item>
     <item>
-      <title></title>
-      <link>https://pilzhere.net/games/spacebarrier/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pilzhere.net/games/spacebarrier/</guid>
-      <description>&lt;!doctype html&gt; space-barrier &amp;#8635; </description>
+      <title>Play Survivor</title>
+      <link>https://pilzhere.net/games/survivor/play-survivor/</link>
+      <pubDate>Sun, 01 Aug 2021 23:49:45 +0200</pubDate>
+      <guid>https://pilzhere.net/games/survivor/play-survivor/</guid>
+      <description> </description>
     </item>
     <item>
-      <title></title>
-      <link>https://pilzhere.net/games/survivor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pilzhere.net/games/survivor/</guid>
-      <description>&lt;!doctype html&gt; jam-game &amp;#8635; </description>
+      <title>Play Santa&#39;s Crashing Christmas</title>
+      <link>https://pilzhere.net/games/santas-crashing-christmas/play-santas-crashing-christmas/</link>
+      <pubDate>Sun, 01 Aug 2021 17:28:50 +0200</pubDate>
+      <guid>https://pilzhere.net/games/santas-crashing-christmas/play-santas-crashing-christmas/</guid>
+      <description> </description>
     </item>
   </channel>
 </rss>

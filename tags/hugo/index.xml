@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo on PilzHere</title>
     <link>https://pilzhere.net/tags/hugo/</link>
     <description>Recent content in Hugo on PilzHere</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>PilzHere</title>
+      <url>https://pilzhere.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pilzhere.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.126.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://pilzhere.net/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +18,7 @@
       <link>https://pilzhere.net/posts/my-first-post/</link>
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://pilzhere.net/posts/my-first-post/</guid>
-      <description>This is my first post on my new site!&#xA;What am I going to do with this site?&#xA;Well, I&amp;rsquo;m going to post about things and ideas that are swirling around or is stuck in my brain that needs to be ventilated digitally.&#xA;I might post an image: Ghosts &amp;rsquo;n Goblins. Do you hate or love this game?&#xA;Or maybe it&amp;rsquo;s complicated&amp;hellip;&#xA;I might post some code:&#xA;Console.WriteLine(&amp;#34;Look &amp;#39;ma! A string!</description>
+      <description>*Level up!*</description>
     </item>
   </channel>
 </rss>
