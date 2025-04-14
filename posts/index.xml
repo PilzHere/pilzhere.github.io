@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on PilzHere</title>
+    <link>https://pilzhere.net/posts/</link>
+    <description>Recent content in Posts on PilzHere</description>
+    <image>
+      <title>PilzHere</title>
+      <url>https://pilzhere.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://pilzhere.net/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.126.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Jun 2022 13:48:34 +0200</lastBuildDate>
+    <atom:link href="https://pilzhere.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Life 2.0</title>
+      <link>https://pilzhere.net/posts/news/my-life-2-0/</link>
+      <pubDate>Mon, 06 Jun 2022 13:48:34 +0200</pubDate>
+      <guid>https://pilzhere.net/posts/news/my-life-2-0/</guid>
+      <description>5th place in game jam but won most cash. New GPU. Graduated, and got a job!</description>
+    </item>
+    <item>
+      <title>Frag Ztar</title>
+      <link>https://pilzhere.net/posts/projects/frag-ztar/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://pilzhere.net/posts/projects/frag-ztar/</guid>
+      <description>Star Fox (SNES) inspired rail shooter.</description>
+    </item>
+    <item>
+      <title>New website</title>
+      <link>https://pilzhere.net/posts/my-first-post/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://pilzhere.net/posts/my-first-post/</guid>
+      <description>*Level up!*</description>
+    </item>
+    <item>
+      <title>Ultra Nightmare</title>
+      <link>https://pilzhere.net/posts/projects/ultra-nightmare/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://pilzhere.net/posts/projects/ultra-nightmare/</guid>
+      <description>First person shooter</description>
+    </item>
+    <item>
+      <title>Survivor</title>
+      <link>https://pilzhere.net/posts/projects/survivor/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://pilzhere.net/posts/projects/survivor/</guid>
+      <description>Top-down adventure</description>
+    </item>
+    <item>
+      <title>Not F Zero</title>
+      <link>https://pilzhere.net/posts/projects/not-f-zero/</link>
+      <pubDate>Mon, 02 Aug 2021 00:01:36 +0200</pubDate>
+      <guid>https://pilzhere.net/posts/projects/not-f-zero/</guid>
+      <description>❤️ SNES Mode 7</description>
+    </item>
+    <item>
+      <title>Santa&#39;s Crashing Christmas</title>
+      <link>https://pilzhere.net/posts/projects/santas-crashing-christmas/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://pilzhere.net/posts/projects/santas-crashing-christmas/</guid>
+      <description>Spinning world survival</description>
+    </item>
+    <item>
+      <title>SteamBoy DIG</title>
+      <link>https://pilzhere.net/posts/projects/digger/</link>
+      <pubDate>Mon, 02 Aug 2021 00:01:44 +0200</pubDate>
+      <guid>https://pilzhere.net/posts/projects/digger/</guid>
+      <description>A game about digging</description>
+    </item>
+    <item>
+      <title>Space Barrier</title>
+      <link>https://pilzhere.net/posts/projects/spacebarrier/</link>
+      <pubDate>Mon, 02 Aug 2021 01:37:20 +0200</pubDate>
+      <guid>https://pilzhere.net/posts/projects/spacebarrier/</guid>
+      <description>Fly &amp;#39;n shoot</description>
+    </item>
+    <item>
+      <title>Robo Wars</title>
+      <link>https://pilzhere.net/posts/projects/robowars/</link>
+      <pubDate>Mon, 02 Aug 2021 01:52:02 +0200</pubDate>
+      <guid>https://pilzhere.net/posts/projects/robowars/</guid>
+      <description>Kill &amp;#39;em all!</description>
+    </item>
+  </channel>
+</rss>
